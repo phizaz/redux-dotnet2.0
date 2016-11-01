@@ -5,3 +5,5 @@ Y:\Projects\redux\redux\redux-examples\bin\Debug\redux.pdb
 Y:\Projects\redux\redux\redux-examples\obj\Debug\redux-examples.csprojResolveAssemblyReference.cache
 Y:\Projects\redux\redux\redux-examples\obj\Debug\redux-examples.exe
 Y:\Projects\redux\redux\redux-examples\obj\Debug\redux-examples.pdb
+\\Mac\Home\Projects\redux\redux\redux-examples\obj\Debug\redux-examples.exe
+\\Mac\Home\Projects\redux\redux\redux-examples\obj\Debug\redux-examples.pdb

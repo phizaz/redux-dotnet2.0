@@ -1,0 +1,10 @@
+\\Mac\Home\Projects\redux\redux\redux-gui-example\bin\Debug\redux-gui-example.exe
+\\Mac\Home\Projects\redux\redux\redux-gui-example\bin\Debug\redux-gui-example.pdb
+\\Mac\Home\Projects\redux\redux\redux-gui-example\bin\Debug\redux.dll
+\\Mac\Home\Projects\redux\redux\redux-gui-example\bin\Debug\redux.pdb
+\\Mac\Home\Projects\redux\redux\redux-gui-example\obj\Debug\redux-gui-example.csprojResolveAssemblyReference.cache
+\\Mac\Home\Projects\redux\redux\redux-gui-example\obj\Debug\redux_gui_example.Form1.resources
+\\Mac\Home\Projects\redux\redux\redux-gui-example\obj\Debug\redux_gui_example.Properties.Resources.resources
+\\Mac\Home\Projects\redux\redux\redux-gui-example\obj\Debug\redux-gui-example.csproj.GenerateResource.Cache
+\\Mac\Home\Projects\redux\redux\redux-gui-example\obj\Debug\redux-gui-example.exe
+\\Mac\Home\Projects\redux\redux\redux-gui-example\obj\Debug\redux-gui-example.pdb
