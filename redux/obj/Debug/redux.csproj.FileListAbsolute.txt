@@ -1,0 +1,4 @@
+Y:\Projects\redux\redux\redux\bin\Debug\redux.dll
+Y:\Projects\redux\redux\redux\bin\Debug\redux.pdb
+Y:\Projects\redux\redux\redux\obj\Debug\redux.dll
+Y:\Projects\redux\redux\redux\obj\Debug\redux.pdb

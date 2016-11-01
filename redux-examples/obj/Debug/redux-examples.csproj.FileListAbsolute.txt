@@ -1,0 +1,7 @@
+Y:\Projects\redux\redux\redux-examples\bin\Debug\redux-examples.exe
+Y:\Projects\redux\redux\redux-examples\bin\Debug\redux-examples.pdb
+Y:\Projects\redux\redux\redux-examples\bin\Debug\redux.dll
+Y:\Projects\redux\redux\redux-examples\bin\Debug\redux.pdb
+Y:\Projects\redux\redux\redux-examples\obj\Debug\redux-examples.csprojResolveAssemblyReference.cache
+Y:\Projects\redux\redux\redux-examples\obj\Debug\redux-examples.exe
+Y:\Projects\redux\redux\redux-examples\obj\Debug\redux-examples.pdb
