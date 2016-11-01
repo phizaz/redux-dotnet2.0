@@ -17,6 +17,7 @@ I don't intend for this to be a full-fledged redux library, I developed this jus
 	5. class **ReduceRunner**, create an instance of this class and use it to run reduce functions (keeping the program responsive while reducing).
 2. **Examples**
 	1. Calculator program
+	2. GUI Calculator program
 
 	
 ## Examples
