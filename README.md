@@ -19,6 +19,18 @@ I don't intend for this to be a full-fledged redux library, I developed this jus
 	1. Calculator program
 	2. GUI Calculator program
 
+# What it does gaurantee
+
+1. An earlier **Act** gets reduced earlier. 
+2. One **reduce** function gets executed at a time, just to keep the state consistent.
+3. While refreshing your UI corresponding to changes made to the state, the state is solid, because **reduce and refresh ui** are run under the same thread.
+4. An **Act** can be reduced many times by different reducers.
+5. An **Act** must be reduced, if not, an exception will be raised.
+
+# What it doesn't gaurantee
+
+1. An **Act** is reduce immediately or in a bounded time. This has a subtle implication. If the **Act** should make changes to the **State**, you cannot assume that the state is changed suddenly or in a bounded item after the corresponding dispatch. 
+
 	
 ## Examples
 
